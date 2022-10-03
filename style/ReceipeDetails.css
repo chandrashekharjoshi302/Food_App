@@ -1,0 +1,54 @@
+body{
+  background:url('https://freemockuppsd.com/wp-content/uploads/2020/07/Free-Beautiful-PSD-Menu-Template-1.jpg');
+}
+
+
+#container {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+#details {
+
+  background-size: cover;
+  background-color: #4e524b;
+  color: white;
+  height: auto;
+  width: 50%;
+  padding: 10px;
+  border-radius: 20px;
+}
+#instructions {
+
+  background-size: cover;
+  padding: 10px;
+  background-color: #4e5848;
+  color: white;
+  height: auto;
+  width: 50%;
+  border-radius: 20px;
+}
+
+#vidimg {
+  height: 400px;
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+
+}
+#thumbnail {
+  height: 300px;
+  width: 320px;
+  margin-left: 100px;
+}
+#yt {
+  margin-left: 100px;
+  height: 400px;
+  width: 600px;
+}
+#video {
+  height: 400px;
+  width: 700px;
+}

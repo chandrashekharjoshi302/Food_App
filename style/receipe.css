@@ -1,0 +1,22 @@
+body{
+    background: url("https://images.pexels.com/photos/616369/pexels-photo-616369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+#random{
+    margin-top: 30px;
+}
+#random>div{
+    box-shadow: rgba(184, 184, 201, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    display: flex;
+    gap: 20px;
+}
+#image{
+    margin-top: 30px;
+    height: 500px;
+    width: 400px;
+}
+#title{
+    text-align: center;
+    text-decoration: underline;
+
+}
